@@ -1,5 +1,5 @@
 - 👋 Привет, я @laaanov
-- 👀 И япока не знаю, что сюда написать...
+- 👀 И я пока не знаю, что сюда написать...
 
 <!---
 laaanov/laaanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
